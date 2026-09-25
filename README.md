@@ -1,12 +1,12 @@
 # Hi there, I'm Ishtiaq Ahmad 👋
 
-### 🚀 Full Stack Software, AI, Cloud & DevOps Engineer
+## 🚀 Full Stack Software, AI, Cloud & DevOps Engineer
 
-*Architecting Resilient Cloud Systems | High-Throughput APIs | Cross-Platform Mobile Apps | Autonomous Agentic AI & RAG*
+Architecting Resilient Cloud Systems | High-Throughput APIs | Cross-Platform Mobile Apps | Autonomous Agentic AI & RAG.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishtiaqahmadbhatti)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishtiaq.ahmad.devpro@gmail.com)
-[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-00F2FE?style=for-the-badge&logo=google-chrome&logoColor=black)](https://smartconverter.net/)
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-00F2FE?style=for-the-badge&logo=google-chrome&logoColor=black)](https://ishtiaqahmadportfolio.techmindsforge.com/)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/ishtiaqahmadbhatti)
 
 ---
@@ -30,7 +30,7 @@ I am a results-driven **Full Stack Software, AI, Cloud & DevOps Engineer** with 
 | **🎨 Frontend & Web** | `Angular 21` `TypeScript` `JavaScript ES6+` `HTML5` `CSS3 & SASS` `RxJS` `Signals` |
 | **📱 Mobile Platforms** | `Flutter` `Dart` `Ionic Framework` `Capacitor` `Android SDK` `Google Play Console` |
 | **☁️ Cloud & DevOps** | `AWS (EC2, S3, RDS, Lambda)` `Kubernetes` `Docker` `Terraform IaC` `Ansible` `Jenkins` `GitHub Actions` `GitLab CI` |
-| **🤖 AI & Agentic Systems**| `PyTorch 2.x (CUDA)` `LangGraph (Multi-Agent)` `LangChain LCEL` `LangSmith Tracing` `MCP Protocol` `FAISS` `ChromaDB` |
+| **🤖 AI & Agentic Systems** | `PyTorch 2.x (CUDA)` `LangGraph (Multi-Agent)` `LangChain LCEL` `LangSmith Tracing` `MCP Protocol` `FAISS` `ChromaDB` |
 | **🗄️ Databases & Storage** | `PostgreSQL` `MS SQL Server` `MySQL` `MongoDB` `Redis` `SQLite` |
 
 ---
@@ -79,9 +79,9 @@ I am continuously open to high-impact software engineering roles, enterprise clo
 - 📧 **Direct Email:** [ishtiaq.ahmad.devpro@gmail.com](mailto:ishtiaq.ahmad.devpro@gmail.com)
 - 📱 **Phone / WhatsApp:** [+92 315-6721703](https://wa.me/923156721703)
 - 💼 **LinkedIn Profile:** [linkedin.com/in/ishtiaqahmadbhatti](https://www.linkedin.com/in/ishtiaqahmadbhatti/)
-- 🌐 **Interactive Portfolio:** [smartconverter.net](https://smartconverter.net/)
+- 🌐 **Interactive Portfolio:** [ishtiaqahmadportfolio.techmindsforge.com](https://ishtiaqahmadportfolio.techmindsforge.com/)
 - 🐙 **GitLab Profile:** [gitlab.com/ishtiaqahmadbhatti](https://gitlab.com/ishtiaqahmadbhatti)
 
 ---
 
-*⭐ If you find my projects impactful, feel free to star the repositories and follow my development journey!*
+⭐ If you find my projects impactful, feel free to star the repositories and follow my development journey!
